@@ -53,6 +53,7 @@ Transitioning from Part Studios to an Assembly tab (`Assembly 1`), inserting sta
 ---
 
 ## BOM
+
 | No. | Item | Quantity | Purpose |
 | :--- | :--- | :--- | :--- |
 | 1 | Main enclosure | 1 | Outer body of the alarm clock |
@@ -90,3 +91,10 @@ Writing firmware to bring the digital time display, alarms, and lighting effects
 * **LED Light Channel:** Added a concentric perimeter channel surrounding the display recess to embed and route the flashing alarm LED strip.
 * **UI & Material Styling:** Designed a dedicated black screen panel complete with time, date, and alarm/music icons, alongside a translucent purple LED lighting effect.
 * **Clearance Verification:** Validated structural alignment against the top-panel control buttons to ensure no enclosure intersections or hardware interference.
+
+---
+
+## Project Viewable Design (Onshape)
+
+https://cad.onshape.com/documents/89b7b359616dac68ca74ce6f/w/914e3c94c6e810e6c0479be0/e/4a201dfb63b84187a3f467ad?renderMode=0&uiState=6add22c75837a283378819b2
+

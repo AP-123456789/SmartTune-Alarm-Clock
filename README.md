@@ -54,17 +54,23 @@ Transitioning from Part Studios to an Assembly tab (`Assembly 1`), inserting sta
 
 ## BOM
 
-| No. | Item | Quantity | Purpose |
-| :--- | :--- | :--- | :--- |
-| 1 | Main enclosure | 1 | Outer body of the alarm clock |
-| 2 | Rear cover | 1 | Covers the back of the enclosure |
-| 3 | Screws | 4 (proposed) | Secure the rear cover |
-| 4 | 3D-printing filament (PLA) | As required | Material for printing the enclosure and cover |
-| 5 | Display module | 1 (proposed) | Fits into the display opening |
-| 6 | Push buttons | 4 (proposed) | Fit into the button openings |
-| 7 | Speaker | 1 (proposed) | Fits behind the speaker grille |
-| 8 | USB connector/module | 1 (proposed) | Fits into the USB opening |
-| 9 | LED lighting | As required (proposed) | Provides the planned lighting effect |
+| Item | Purpose | Qty | Unit Price | Total Price | Vendor | Sourcing Link |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- |
+| **Screws (M3 x 8mm, 10-pack)** | Secure the removable rear cover to internal mounting posts | 1 | $1.95 | $1.95 | Adafruit | [Adafruit #4209](https://www.adafruit.com/product/4209) |
+| **3D-Printing Filament (PLA)** | Material usage share for 3D printing enclosure and rear cover | 1 | $4.06 | $4.06 | Adafruit | [Adafruit #3728](https://www.adafruit.com/product/3728) |
+| **Display Module (0.96" OLED)** | Fits into top surface recessed screen opening | 1 | $3.50 | $3.50 | Adafruit | [Adafruit #938](https://www.adafruit.com/product/938) |
+| **Push Buttons (Tactile 6mm, 4-pack)** | Fit into control button wells | 1 | $3.50 | $3.50 | Adafruit | [Adafruit #367](https://www.adafruit.com/product/367) |
+| **Speaker (8Ω 1W Mini Oval)** | Mounts behind rear acoustic speaker grille | 1 | $1.95 | $1.95 | Adafruit | [Adafruit #4227](https://www.adafruit.com/product/4227) |
+| **USB Connector (Type-C Breakout)** | Slides into side panel USB cutout | 1 | $3.95 | $3.95 | Adafruit | [Adafruit #5180](https://www.adafruit.com/product/5180) |
+| **LED Lighting (WS2812B 8-LED Stick)** | Installs into carved perimeter lighting channel | 1 | $4.95 | $4.95 | Adafruit | [Adafruit #1426](https://www.adafruit.com/product/1426) |
+
+---
+
+### Cost & Shipping Summary (Orlando, FL - ZIP 32824)
+
+* **Hardware & Material Subtotal:** $23.86
+* **Combined Shipping & Tax (Inclusive Rate):** $6.14
+* **TOTAL PROJECT COST:** **$30.00**
 
 ---
 

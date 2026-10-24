@@ -68,6 +68,8 @@ Mounting an ESP32 or Arduino microcontroller onto the internal corner posts.
 ### Software Coding
 Writing firmware to bring the digital time display, alarms, and lighting effects to life.
 
-
-
-
+### Latest Update: LED Display & Enclosure Integration
+* **Display Recess:** Modeled and cut a precise, centered shallow recess into the top surface of the alarm clock enclosure in Onshape to securely house the digital display module.
+* **LED Light Channel:** Added a concentric perimeter channel surrounding the display recess to embed and route the flashing alarm LED strip.
+* **UI & Material Styling:** Designed a dedicated black screen panel complete with time, date, and alarm/music icons, alongside a translucent purple LED lighting effect.
+* **Clearance Verification:** Validated structural alignment against the top-panel control buttons to ensure no enclosure intersections or hardware interference.

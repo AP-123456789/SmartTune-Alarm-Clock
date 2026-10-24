@@ -66,14 +66,6 @@ Transitioning from Part Studios to an Assembly tab (`Assembly 1`), inserting sta
 
 ---
 
-### Cost & Shipping Summary (Orlando, FL - ZIP 32824)
-
-* **Hardware & Material Subtotal:** $23.86
-* **Combined Shipping & Tax (Inclusive Rate):** $6.14
-* **TOTAL PROJECT COST:** **$30.00**
-
----
-
 ## Future Steps
 
 While the CAD enclosure currently represents the physical exterior shell and static layout, the next phase of the project transitions into real-world hardware integration:

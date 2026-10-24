@@ -67,3 +67,7 @@ Mounting an ESP32 or Arduino microcontroller onto the internal corner posts.
 
 ### Software Coding
 Writing firmware to bring the digital time display, alarms, and lighting effects to life.
+
+
+
+<img width="745" height="201" alt="image" src="https://github.com/user-attachments/assets/479e5c33-f3df-41db-990b-240e0c889636" />
